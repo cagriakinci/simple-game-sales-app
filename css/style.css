@@ -1,0 +1,32 @@
+body {
+    background-color: #E9ECEF;
+}
+.h1-attribute {
+    font-size: 60px;
+}
+
+.h1-color{
+    color: #6610f2;
+}
+
+.h4-attribute {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Courier, monospace;
+}
+
+.first-article {
+    margin-top: 60px;
+}
+
+.third-article {
+    margin-left: 47%;
+}
+
+.about-us-first-article {
+    margin-top: 30px;
+}
+
+.margin-attribute {
+    margin-left: 20px;
+}
